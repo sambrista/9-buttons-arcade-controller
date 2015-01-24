@@ -1,0 +1,16 @@
+--- v1.0 (Jan 24, 2015)
+	- Initial release under GPLv2. 
+	- Supports 13 inputs (4 direction + 9 buttons), mapped as follows:	
+	   PORTC5: Up
+	   PORTC4: Down
+	   PORTC3: Left
+	   PORTC2: Right
+	   PORTC1: Button 0
+	   PORTC0: Button 1
+	   PORTB5: Button 2
+	   PORTB4: Button 3
+	   PORTB3: Button 4
+	   PORTB2: Button 5
+	   PORTB1: Button 6
+	   PORTB0: Button 7
+	   PORTD7: Button 8
